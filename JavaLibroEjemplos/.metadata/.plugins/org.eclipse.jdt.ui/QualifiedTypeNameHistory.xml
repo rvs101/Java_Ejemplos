@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="rvs.libro.pag23.ejercicio2_1.entrada.datos.conversiones.EntradaDeDatosConversiones"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="rvs.libro.pag23.ejercicio2_1.entrada.datos.conversiones.Usuario"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="rvs.libro.pag23.ejercicio2_1.entrada.datos.conversiones.Cap2Ej1"/>
+    <fullyQualifiedTypeName name="java.io.DataInput"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.DataInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.constant.DynamicCallSiteDesc"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="rvs.libro.pag24.ejercicio2_3.puntuaciones.examenes.Cap2Ej3"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="rvs.libro.ejemplo.print.stack.traces.PrintStreamMetodoCheckError"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+</qualifiedTypeNameHistroy>
