@@ -1,4 +1,4 @@
-package rvs.libro.pag47.teoria.uso.sockets.ejemplo;
+package rvs.libro.pag47.teoria.uso.sockets.ejemplo.tel;
 
 import java.io.BufferedReader;
 import java.io.IOException;
